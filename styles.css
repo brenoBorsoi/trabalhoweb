@@ -108,22 +108,28 @@ h1 {
 }
 
 p1 {
-        text-align: center;
+    text-align: center;
 }
 
 .linkedin{
+    width: 100px;
+    height: auto;
     display: flex;
     margin: 0 auto;
     text-align: center;
 }
 
 .whats{
+    width: 100px;
+    height: auto;
     display: flex;
     margin: 0 auto;
     text-align: center;
 }
 
 .email{
+    width: 100px;
+    height: auto;
     display: flex;
     margin: 0 auto;
     text-align: center;

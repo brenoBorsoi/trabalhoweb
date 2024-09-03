@@ -1,0 +1,108 @@
+#menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(90, 245, 132);
+    align-items: center;
+    text-align: center;
+    display: flex;
+
+}
+
+body{
+    padding: 90px;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+li {
+    margin: 20px;
+}
+
+a {
+    color: black;
+}
+
+.profile-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+h1 {
+    margin: 20;
+    padding: 20px;
+    text-align: center;
+}
+
+.welcome {
+    width: 300px;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.github {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+#form {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    max-width: 400px;
+    width: 70%;
+    padding: 50px;
+    border: 5px solid #00b7fa;
+    background-color: #00ff0d;
+}
+
+#name {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#email {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#subject {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#message {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#submit {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}

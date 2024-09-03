@@ -113,7 +113,13 @@ p1 {
     margin: 5;
     padding: 5px;
     text-align: center;
+}
 
+p {
+    margin: 5;
+    padding: 5px;
+    text-align: center;
+}
 .linkedin{
     width: 100px;
     height: auto;
@@ -140,7 +146,7 @@ p1 {
     display: flex;
     margin: 0 auto;
     text-align: center;
-        cursor: pointer;
+    cursor: pointer;
 
 }
 

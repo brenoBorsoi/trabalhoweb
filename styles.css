@@ -105,6 +105,8 @@ h1 {
     display: flex;
     margin: 0 auto;
     text-align: center;
+    cursor: pointer;
+
 }
 
 p1 {
@@ -117,6 +119,8 @@ p1 {
     display: flex;
     margin: 0 auto;
     text-align: center;
+        cursor: pointer;
+
 }
 
 .whats{
@@ -125,6 +129,8 @@ p1 {
     display: flex;
     margin: 0 auto;
     text-align: center;
+        cursor: pointer;
+
 }
 
 .email{
@@ -133,5 +139,7 @@ p1 {
     display: flex;
     margin: 0 auto;
     text-align: center;
+        cursor: pointer;
+
 }
 

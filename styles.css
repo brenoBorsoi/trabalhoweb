@@ -110,8 +110,9 @@ h1 {
 }
 
 p1 {
+    margin: 5;
+    padding: 5px;
     text-align: center;
-}
 
 .linkedin{
     width: 100px;
